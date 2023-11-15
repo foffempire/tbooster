@@ -1,0 +1,4 @@
+cannot connect: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) | November 14 2023, 2:41 pm 
+cannot connect: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) | November 14 2023, 2:41 pm 
+cannot connect: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) | November 14 2023, 2:41 pm 
+cannot connect: SQLSTATE[HY000] [1045] Access denied for user 'root'@'localhost' (using password: NO) | November 14 2023, 2:41 pm 
